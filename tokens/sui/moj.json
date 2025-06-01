@@ -1,0 +1,13 @@
+{
+    "chainId": "sui",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "MOJ",
+    "name": "moheji",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump/logo.png",
+    "tags": ["wrapped", "bridged"],
+    "extensions": {
+        "website": "https://1link.jp/moheji",
+        "github": "https://github.com/mohejicoin"
+    }
+}
