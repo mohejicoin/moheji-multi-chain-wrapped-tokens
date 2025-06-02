@@ -1,7 +1,7 @@
 {
-    "p": "brc-20",
-    "op": "deploy",
-    "tick": "MOJ",
-    "max": "1000000000",
-    "lim": "1000"
+  "p": "brc-20",
+  "op": "deploy",
+  "tick": "WMOJ",
+  "max": "1000000000",
+  "lim": "1000"
 }
