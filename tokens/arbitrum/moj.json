@@ -1,7 +1,7 @@
 {
   "chainId": 42161,
   "address": "0x0000000000000000000000000000000000000000",
-  "symbol": "MOJ",
+  "symbol": "WMOJ",
   "name": "moheji",
   "decimals": 6,
   "logoURI": "https://raw.githubusercontent.com/mohejicoin/token-list/main/assets/mainnet/HJwToCxFFmtnYGZMQa7rZwHAMG2evdbdXAbbQr1Jpump/logo.png",
