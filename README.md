@@ -1,0 +1,1 @@
+The contents of this repository represent a conceptual implementation plan for moheji-multi-chain-wrapped-tokens and are not guaranteed to be implemented. Specifications and plans are subject to change without notice.
